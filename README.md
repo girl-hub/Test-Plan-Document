@@ -22,7 +22,7 @@ The feature called “Sign up for our newsletter”, and the purpose of the feat
 
 ##### Test Type:
 
-It’s non -functional, usability, black – box, positive, smoke testing.
+It’s functional, usability, black – box, positive, smoke testing.
 
 #### Test Case #2: Enter non valid email address 
 
@@ -35,7 +35,7 @@ It’s non -functional, usability, black – box, positive, smoke testing.
 
 ##### Test Type:
 
-It’s non -functional, usability, black – box, negative testing.
+It’s functional, usability, black – box, negative testing.
 
 
 #### Test Case #3: Choose your favorite departments/ woman
@@ -49,7 +49,7 @@ It’s non -functional, usability, black – box, negative testing.
 
 #### Test Type: 
 
-It’s non -functional, usability, black – box, positive, smoke testing.
+It’s functional, usability, black – box, positive, smoke testing.
 
 
 #### Test Case #4: Don't choose any favourite department
@@ -62,7 +62,7 @@ It’s non -functional, usability, black – box, positive, smoke testing.
 
 #### Teast Type:
 
-It’s non -functional, usability, black – box, positive, smoke testing.
+It’s functional, usability, black – box, positive, smoke testing.
 
 
 #### Test Case #5: Choose you favourite collections
@@ -75,7 +75,7 @@ It’s non -functional, usability, black – box, positive, smoke testing.
 
 #### Teast Type:
 
-It’s non -functional, usability, black – box, positive, smoke testing.
+It’s functional, usability, black – box, positive, smoke testing.
 
 
 #### Test Case #6: Choose your favourite departments
@@ -88,7 +88,7 @@ It’s non -functional, usability, black – box, positive, smoke testing.
 
 #### Test Type:
 
-It’s non -functional, usability, black – box, positive, testing.
+It’s functional, usability, black – box, positive, testing.
 
 
 #### Test Case #7: Accept the privacy policy
@@ -101,7 +101,7 @@ It’s non -functional, usability, black – box, positive, testing.
 
 #### Test Type:
 
-It’s non -functional, usability, black – box, positive, testing.
+It’s functional, usability, black – box, positive, testing.
 
 
 #### Test Case #8: Save button
@@ -115,7 +115,7 @@ It’s non -functional, usability, black – box, positive, testing.
 
 #### Test Type:
 
-It’s non -functional, usability, black – box, positive, regretion testing.
+It’s functional, usability, black – box, positive, regretion testing.
 
 
 #### Test Case #9: Unsubscribe Email
@@ -129,7 +129,7 @@ It’s non -functional, usability, black – box, positive, regretion testing.
 
 #### Test Type:
 
-It’s non -functional, usability, black – box, positive, testing.
+It’s functional, usability, black – box, positive, testing.
 
 
 
@@ -145,7 +145,7 @@ It’s non -functional, usability, black – box, positive, testing.
 
 #### Test Type:
 
-It’s non -functional, usability, black – box testing.
+It’s functional, usability, black – box testing.
 
 
 
