@@ -20,6 +20,8 @@ The feature called “Sign up for our newsletter”, and the purpose of the feat
 
 - Expected results: if an email address is correct/ valid/ exists, the user has completed the first step of signing up.
 
+- Actual result: the user has completed the first step of signing up.
+
 ##### Test Type:
 
 It’s functional, usability, black – box, positive, smoke testing.
@@ -32,6 +34,8 @@ It’s functional, usability, black – box, positive, smoke testing.
 * Steps:  [go to the web page](https://www.zara.com/us/) , under the section Newsletter, and It'll be the first requiered field "Email", enter non valid email
 
 * Expected results: if the user enter non valid email, he/ she won't be able to sign up to newsletter
+
+* Actual result: the user is not able to sign up to newsletter
 
 ##### Test Type:
 
@@ -47,6 +51,8 @@ It’s functional, usability, black – box, negative testing.
 
 * Expected results: when the user will complete each step of signing in, she/he will see the woman section as was choosen
 
+* Actual result: the woman section is shown to the user
+
 #### Test Type: 
 
 It’s functional, usability, black – box, positive, smoke testing.
@@ -60,6 +66,8 @@ It’s functional, usability, black – box, positive, smoke testing.
 
 * Expected results: It's not a required field, so the user still will be able to sign in to the Newsletter, but will be getting a random updates with different departments
 
+* Actual result: the user is able to sign in to the Newsletter
+
 #### Teast Type:
 
 It’s functional, usability, black – box, positive, smoke testing.
@@ -71,7 +79,9 @@ It’s functional, usability, black – box, positive, smoke testing.
 
 *  Steps: [go to the web page](https://www.zara.com/us/), under "Choose your favourite collections" section choose one possible option SRPLS
 
-*  Expected results: when the user will be resiving weekly updates, he/ she will resieve updates incleding this new collection
+*  Expected results: when the user will be resiving weekly updates, he/ she will resieve updates including this new collection
+
+* Actual result: the user resives SRLPS collection updates
 
 #### Teast Type:
 
@@ -84,7 +94,9 @@ It’s functional, usability, black – box, positive, smoke testing.
 
 * Steps: [go to the web page](https://www.zara.com/us/), under "Choose your favourite departments" choose any or all af the categories
 
-*  Expected results: depending which categories the user will select, he/ she will get updates on trends on these categories
+* Expected results: depending which categories the user will select, he/ she will get updates on trends on these categories
+
+* Actual result: the user gets updates onselected categories
 
 #### Test Type:
 
@@ -99,6 +111,8 @@ It’s functional, usability, black – box, positive, testing.
 
 * Expected results: by clicking the box  "I accept the privacy policy" the user wil be able to sign in to Newsletter
 
+* Actual result: the user is able to sign in to Newsletter
+
 #### Test Type:
 
 It’s functional, usability, black – box, positive, testing.
@@ -111,6 +125,8 @@ It’s functional, usability, black – box, positive, testing.
 * Steps: [go to the web page](https://www.zara.com/us/) and hit the button "Save"
 
 * Expected results: all information that user has entered should be saved and the user should be subscribed to Newsletter
+
+* Actual result: the information is saved and the user is subscribed
 
 
 #### Test Type:
@@ -125,6 +141,8 @@ It’s functional, usability, black – box, positive, regretion testing.
 *  Steps: [go to the web page](https://www.zara.com/us/), find unsubscribe section and enter the emal you  used to subscribe
 
 * Expected results: the use will be unsubscribed from Newsletter
+
+* Actual result: the user is unsubscribed
 
 
 #### Test Type:
@@ -142,10 +160,77 @@ It’s functional, usability, black – box, positive, testing.
 
 * Expected results: the user can't unsubscribe fom the Newsletter
 
+* Actual results: the user won't be unsubscribe 
 
 #### Test Type:
 
 It’s functional, usability, black – box testing.
+
+
+# #2: Manual Test Execution
+
+
+#### #1 Enter your email
+
+- test pass
+
+![image](https://user-images.githubusercontent.com/112138760/194778164-0e747fe0-1310-4210-bae4-c68a06771180.png)
+
+#### #2  Enter non valid email address 
+
+- test pass
+
+![image](https://user-images.githubusercontent.com/112138760/194778275-4e529bb9-eab0-4ccb-8dc7-9e4cfeabf044.png)
+
+#### #3 Choose your favorite departments/ woman
+
+- test pass
+
+![image](https://user-images.githubusercontent.com/112138760/194778437-2e6f9729-e889-48d4-a957-381c8d6334d0.png)
+
+#### #4 Don't choose any favourite department
+
+-test pass
+
+![image](https://user-images.githubusercontent.com/112138760/194778554-0d4d6f42-5a50-4fbd-b15f-a4ad19c7e7f5.png)
+
+#### #5 Choose you favourite collections
+
+- test pass 
+
+![image](https://user-images.githubusercontent.com/112138760/194778650-3f5ea899-d2d3-489c-a035-27ff3ddb90e4.png)
+
+#### #6 Choose your favourite departments
+
+- test pass
+
+![image](https://user-images.githubusercontent.com/112138760/194778747-43d0cda0-c287-4124-9a74-a1fd9a53aa51.png)
+
+#### #7 Accept the privacy policy
+
+- test pass
+
+![image](https://user-images.githubusercontent.com/112138760/194778822-57829899-ea79-4f99-87e1-7f3a8e4779ec.png)
+
+#### #8 Save button
+
+- test pass
+
+![image](https://user-images.githubusercontent.com/112138760/194778931-eee35ca0-247d-4f24-8d3d-30438fd3ed58.png)
+
+![image](https://user-images.githubusercontent.com/112138760/194778967-37d75db6-7004-4387-9297-8d69fdf87249.png)
+
+#### #9 Unsubscribe Email
+
+- test pass 
+
+![image](https://user-images.githubusercontent.com/112138760/194779055-d5d890f8-1a41-46b9-a39e-c621eb5ffad9.png)
+
+#### #10  Unsubscribe Email/ non valid address
+
+- test pass
+
+![image](https://user-images.githubusercontent.com/112138760/194779182-ab6ffb68-0d6a-49a7-9e7a-ba32eff26afb.png)
 
 
 
