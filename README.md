@@ -222,7 +222,7 @@ It’s functional, usability, black – box testing.
 
 #### #9 Unsubscribe Email
 
-- test pass 
+- test failed 
 
 ![image](https://user-images.githubusercontent.com/112138760/194779055-d5d890f8-1a41-46b9-a39e-c621eb5ffad9.png)
 
@@ -231,6 +231,49 @@ It’s functional, usability, black – box testing.
 - test pass
 
 ![image](https://user-images.githubusercontent.com/112138760/194779182-ab6ffb68-0d6a-49a7-9e7a-ba32eff26afb.png)
+
+
+# Bug Report
+
+#### #1 Bub Number
+Test Case #9
+
+#### #2 Bug Title
+Unsubscribe Email doesn't come to the user email
+
+#### #3 Priority
+low
+
+#### #4 Environment
+OS Windows 10
+
+#### #5 Description
+If the use is no longer interested in receiving newsletter, the user can unsubscriby by using the same email when he has registered. 
+
+#### #6 Steps to Reproduce
+[go to the web page] (https://www.zara.com/us/en/z-newsletter-nl1400.html?v1=11110)
+enter your email in unsubscribe section and hit the button
+
+#### #7 Expected and Actual Results
+Expected result: the user will be unsubscribed from newsletter
+Actual result: the confirmation email doesn't come and user isn't unsubscribed
+
+#### #8 Screenshot
+
+![image](https://user-images.githubusercontent.com/112138760/194780548-ae5b9ddc-972a-4934-a8d7-d3a326629177.png)
+
+![image](https://user-images.githubusercontent.com/112138760/194780580-24de125c-1ea6-4f38-9403-a28ab4ec345a.png)
+
+
+the email to unsubscribe doesn't come 
+
+
+
+
+
+
+
+
 
 
 
