@@ -251,7 +251,7 @@ OS Windows 10
 If the use is no longer interested in receiving newsletter, the user can unsubscriby by using the same email when he has registered. 
 
 #### #6 Steps to Reproduce
-[go to the web page] (https://www.zara.com/us/en/z-newsletter-nl1400.html?v1=11110)
+[go to the web page](https://www.zara.com/us/en/z-newsletter-nl1400.html?v1=11110)
 enter your email in unsubscribe section and hit the button
 
 #### #7 Expected and Actual Results
